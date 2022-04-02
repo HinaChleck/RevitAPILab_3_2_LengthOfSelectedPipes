@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab_3_2_LengthOfSelectedPipes.dll"</Assembly>
+		<AddInId>12728EB9-15E2-4503-B901-E37BF6E6A89D</AddInId>
+		<FullClassName>RevitAPILab_3_2_LengthOfSelectedPipes.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Подсчет длины выбранных труб</Text>
+	</AddIn>
+</RevitAddIns>
